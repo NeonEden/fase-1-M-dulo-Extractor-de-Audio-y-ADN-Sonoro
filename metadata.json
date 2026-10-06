@@ -1,0 +1,6 @@
+{
+  "name": "AudioDNA - Extractor de Audio y ADN Sonoro",
+  "description": "Extractor de audio, separación de stems vocales e instrumentales y análisis de telemetría acústica (BPM, tonalidad, inclinación espectral, RMS/LUFS, sibilancia y segmentación estructural) con exportación de audio_dna.json y script Python.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
